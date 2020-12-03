@@ -7,7 +7,7 @@
     <packaging>mule-extension</packaging>
     <groupId>net.mikej.connectors</groupId>
     <artifactId>flow-control-connector</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.0-ALPHA.4</version>
 
     <properties>
         <maven.site.plugin.version>3.9.0</maven.site.plugin.version>

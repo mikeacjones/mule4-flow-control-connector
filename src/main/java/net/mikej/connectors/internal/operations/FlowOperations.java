@@ -50,7 +50,7 @@ public class FlowOperations {
             flow.start();
         }
         else {
-            if (currentState.isStopped() || currentState.isStopped()) return;
+            if (currentState.isStopped() || currentState.isStopping()) return;
             flow.stop();
         }
     }
