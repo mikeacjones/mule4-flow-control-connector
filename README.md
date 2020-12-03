@@ -2,9 +2,9 @@
 
 Mule 4 connector that can be used to programmatically start and stop flows at runtime.
 
-![Flow images](/images/Screen Shot 2020-12-03 at 4.54.36 PM.png)
+![Flow images](/images/screenshot1.png)
 
-![Config image](/images/Screen Shot 2020-12-03 at 4.54.46 PM.png)
+![Config image](/images/screenshot2.png)
 
 ## Installation
 
