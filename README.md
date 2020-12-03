@@ -21,7 +21,7 @@ Add dependency to your `pom.xml`
 <dependency>
   <groupId>net.mikej.connectors</groupId>
   <artifactId>flow-control-connector</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <classifier>mule-plugin</classifier>
 </dependency>
 ```
