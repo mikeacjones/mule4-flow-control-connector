@@ -8,7 +8,7 @@
     <packaging>mule-extension</packaging>
     <groupId>af871948-2dd2-4f4c-8bbd-f6a997cd48d7</groupId>
     <artifactId>flow-control-connector</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.0</version>
 
     <distributionManagement>
         <snapshotRepository>
